@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Random Dog</string>
+    <string name="get_a_dog">get a dog</string>
+    <string name="dog">Dog</string>
 </resources>
